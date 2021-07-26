@@ -1,5 +1,5 @@
 title: Choyeon Hong
-description: Where am I ?
+description: data-scientist, artificial intelligence
 permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "choyeon-hong.github.io" # the base hostname & protocol for your site, e.g. http://example.com
@@ -8,7 +8,8 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: Choyeon Hong # add your name
 author-img: cy.jpg # add your photo
-about-author: I am a data-scientist and currently staying at South Korea. Never Be Ordinary!! # add description
+about-author: I am a data-scientist and currently staying at South Korea. 
+Never Be Ordinary!! # add description
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
 social-github: # add your Github handle
