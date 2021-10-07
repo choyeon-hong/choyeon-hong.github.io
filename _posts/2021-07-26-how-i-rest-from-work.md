@@ -8,8 +8,8 @@ fig-caption: # Add figcaption (optional)
 tags: [introduction, travel]
 ---
 ## There are lots of things I love
-I have travelled to 17 countires and 52 cities so far. Most of them are by myself, so it makes me independent and brave.
-Also, I am interested in learning language and meeting new people while travling. It is a good opportunity to broden my perspective and relieve stress from work.
+I have travelled to 17 countires and 52 cities so far. Traveling by myself makes me independent and brave.
+Also, I am interested in learning languages and meeting new people while traveling. It is a good opportunity to broden my perspective and relieve stress from work.
 
 ![picture I took in Xiamen]({{site.baseurl}}/assets/img/cy.jpg)
 
