@@ -7,7 +7,7 @@ img: # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [introduction, travel]
 ---
-## There are lots of things I love
+## Travel
 I have travelled to 17 countires and 52 cities so far. Traveling by myself makes me independent and brave.
 Also, I am interested in learning languages and meeting new people while traveling. It is a good opportunity to broden my perspective and relieve stress from work.
 
