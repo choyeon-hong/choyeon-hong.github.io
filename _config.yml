@@ -9,17 +9,17 @@ site-twitter: #if your site has a twitter account, enter it here
 author: Choyeon Hong # add your name
 author-img: cy.jpg # add your photo
 about-author: 5+ Years of Experience as an AI Researcher  | MSc Information Technology Candidate  | Digital Pathology  | Currently in the U.K. # add description
-social-twitter: TwitterKorea # add your Twitter handle
-social-facebook: # add your Facebook handle
+#social-twitter: TwitterKorea # add your Twitter handle
+#social-facebook: # add your Facebook handle
 social-github: choyeon-hong # add your Github handle
 social-linkedin: choyeon-hong-920901 # add your Linkedin handle
 social-email: eunice1615@gmail.com # add your Email address
 
 # Disqus
-discus-identifier: # add your discus identifier
+#discus-identifier: # add your discus identifier
 
 # Tracker
-analytics: # Google Analytics
+#analytics: # Google Analytics
 
 # Build Settings
 markdown: kramdown
