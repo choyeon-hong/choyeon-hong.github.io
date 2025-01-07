@@ -16,12 +16,11 @@ Never be ordinary! 🚀 <br/><br/>
 <img src ="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=Java&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 <img src ="https://img.shields.io/badge/eclipseide-2C2255.svg?&style=for-the-badge&logo=eclipseide&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/
 <img src="https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-<img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/
+<img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 <img src="https://img.shields.io/badge/XML-%23005FAD.svg?&style=for-the-badge&logo=XML&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 <img src="https://img.shields.io/badge/google_colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-<img src="https://img.shields.io/badge/R-F276DC3?style=for-the-badge&logo=R&logoColor=black" style="height : auto; margin-left : 10px; margin-right : 10px;"/
-</a>&nbsp;
+<img src="https://img.shields.io/badge/R-F276DC3?style=for-the-badge&logo=R&logoColor=black" style="height : auto; margin-left : 10px; margin-right : 10px;"/> 
 </div>
 
 <h3>☑️More information</h3>
