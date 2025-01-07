@@ -8,12 +8,12 @@ fig-caption: # Add figcaption (optional)
 tags: [introduction, travel]
 ---
 ## Travel
-I have travelled to 17 countires and 52 cities so far. Traveling by myself makes me independent and brave.
-Also, I am interested in learning languages and meeting new people while traveling. It is a good opportunity to broden my perspective and relieve stress from work.
+I have travelled to 18 countires and 58 cities.
+I'm interested in learning languages and meeting new people while traveling. It is a good opportunity to broden my perspective and relieve stress from work.
 
-![picture I took in Xiamen]({{site.baseurl}}/assets/img/cy.jpg)
+# ![picture I took in Xiamen]({{site.baseurl}}/assets/img/cy.jpg)
 
->I have travelled to 17 countires and 52 cities.
+>I have travelled to 18 countires and 58 cities.
 
 Favourite cities are
 
@@ -21,5 +21,3 @@ Favourite cities are
 * Interlaken, Switzerland
 * Kaosiung, Taiwan
 * Edinburgh, Scotland
-
-We will travel again soon. #staysafe
