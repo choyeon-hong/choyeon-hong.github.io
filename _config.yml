@@ -8,7 +8,10 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: Choyeon Hong # add your name
 author-img: cy.jpg # add your photo
-about-author: 5+ Years of Experience as an AI Researcher | MSc Information Technology Candidate | Digital Pathology | Currently in the U.K. # add description
+about-author: 5+ Years of Experience as an AI Researcher  
+MSc Information Technology Candidate  
+Digital Pathology  
+Currently in the U.K.   # add description
 social-twitter: TwitterKorea # add your Twitter handle
 social-facebook: # add your Facebook handle
 social-github: choyeon-hong # add your Github handle
